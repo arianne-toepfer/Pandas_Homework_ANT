@@ -1,1 +1,2 @@
 # Pandas_Homework_ANT
+Please enjoy the Analytics of Heroes of Pymoli, each segment of the assignment is broken out with a header and every line of code has an annotation with what piece of information we are looking to return in the code. 
