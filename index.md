@@ -1,25 +1,19 @@
-## Welcome to GitHub Pages
+## The Fastest Growing Video Game on the Market!
 
-You can use the [editor on GitHub](https://github.com/arianne-toepfer/Pandas_Homework_ANT/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+[https://c1.staticflickr.com/5/4425/36307963371_0d7899fa08_b.jpg](src)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Purpose
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Generate a report that breaks down the game's purchasing data into meaningful insights.
 
 ```markdown
-Syntax highlighted code block
+Your Final report should include the following:
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
+1. Player Count
+2. Number of Unique Items
+3. Total Number of Purchases
+4. Toal Revenue
 
 **Bold** and _Italic_ and `Code` text
 
@@ -28,9 +22,6 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/arianne-toepfer/Pandas_Homework_ANT/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
